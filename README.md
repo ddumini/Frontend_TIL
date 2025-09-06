@@ -4,34 +4,33 @@
 단단한 프론트엔드 개발자가 되기
 
 - [TIL](#til)
-  - [1. Frontend](#1-frontend)
+  - [1. FrontEnd](#1-frontend)
     - [1.1 HTML](#11-html)
     - [1.2 CSS](#12-css)
-    - [1.3 Javascript](#13-javascript)
+    - [1.3 JavaScript](#13-javascript)
     - [1.4 React](#14-react)
     - [1.5 TypeScript](#15-typescript)
     - [1.6 Next.js](#16-nextjs)
-  - [2. CS](#2-cs)
-    - [2.1 Browser](#21-browser)
-    - [2.2 Event Loop](#22-event-loop)
-    - [2.3 Memory Management](#23-memory-management)
-    - [2.4 Network](#24-network)
-    - [2.5 Data Structures](#25-data-structures)
-  - [3. Performance](#3-performance)
-    - [3.1 Optimization](#31-optimization)
-  - [4. Build Tools](#4-build-tools)
+  - [2. 컴퓨터과학](#2-컴퓨터과학)
+    - [2.1 브라우저](#21-브라우저)
+    - [2.2 이벤트 루프](#22-이벤트-루프)
+    - [2.3 메모리 관리](#23-메모리-관리)
+    - [2.4 네트워크](#24-네트워크)
+    - [2.5 자료구조](#25-자료구조)
+  - [3. 성능](#3-성능)
+    - [3.1 최적화](#31-최적화)
+  - [4. 빌드 도구](#4-빌드-도구)
     - [4.1 Webpack](#41-webpack)
-  - [5. State Management](#5-state-management)
+  - [5. 상태관리](#5-상태관리)
     - [5.1 Zustand](#51-zustand)
 
-## 1. Frontend
+## 1. FrontEnd
 ### 1.1 HTML
 
 ### 1.2 CSS
-- 
 
-### 1.3 Javascript
-- [클로저](Frontend/javascript/closure.md)
+### 1.3 JavaScript
+- [closure](frontend/javascript/closure.md)
 
 ### 1.4 React
 
@@ -40,26 +39,26 @@
 ### 1.6 Next.js
 - 
 
-## 2. CS
-### 2.1 Browser
+## 2. 컴퓨터과학
+### 2.1 브라우저
 
-### 2.2 Event Loop
+### 2.2 이벤트 루프
 
-### 2.3 Memory Management
+### 2.3 메모리 관리
 
-### 2.4 Network
+### 2.4 네트워크
 
-### 2.5 Data Structures
+### 2.5 자료구조
 -
 
-## 3. Performance
-### 3.1 Optimization
+## 3. 성능
+### 3.1 최적화
 -
 
-## 4. Build Tools
+## 4. 빌드 도구
 ### 4.1 Webpack
 -
 
-## 5. State Management
+## 5. 상태관리
 ### 5.1 Zustand
 -
