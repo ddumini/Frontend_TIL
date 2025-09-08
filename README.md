@@ -33,6 +33,7 @@
 - [closure](frontend/javascript/closure.md)
 
 ### 1.4 React
+- [useEffect 동작 원리](frontend/react/useEffect%20동작%20원리.md)
 
 ### 1.5 TypeScript
 
