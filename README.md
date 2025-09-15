@@ -20,6 +20,7 @@
 ### 1.1 HTML
 
 ### 1.2 CSS
+- [CSS Cascading](frontend/css/CSS%20Cascading.md)
 
 ### 1.3 JavaScript
 - [closure](frontend/javascript/closure.md)
