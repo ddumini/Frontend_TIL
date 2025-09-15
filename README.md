@@ -25,6 +25,7 @@
 - [closure](frontend/javascript/closure.md)
 
 ### 1.4 React
+- [리액트 앱의 동작 원리](frontend/react/리액트%20앱의%20동작%20원리.md)
 - [useEffect 동작 원리](frontend/react/useEffect%20동작%20원리.md)
 
 ### 1.5 TypeScript
