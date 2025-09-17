@@ -48,4 +48,4 @@
 -
 
 ## 6. 면접 질문
-- [day1](frontend/interview/day1.md)
+- [day1](interview/day1.md)
