@@ -49,3 +49,4 @@
 
 ## 6. 면접 질문
 - [day1](interview/day1.md)
+- [day2](interview/day2.md)
