@@ -12,41 +12,61 @@
     - [1.5 TypeScript](#15-typescript)
     - [1.6 Next.js](#16-nextjs)
   - [2. CS](#2-cs)
+    - [2.1 Browser](#21-browser)
+    - [2.2 rendering](#22-rendering)
   - [3. 성능](#3-성능)
   - [4. 빌드 도구](#4-빌드-도구)
   - [5. 상태관리](#5-상태관리)
   - [6. 면접 질문](#6-면접-질문)
 
 ## 1. FrontEnd
+
 ### 1.1 HTML
 
 ### 1.2 CSS
+
 - [CSS Cascading](frontend/css/CSS%20Cascading.md)
 
 ### 1.3 JavaScript
+
 - [closure](frontend/javascript/closure.md)
 
 ### 1.4 React
+
 - [리액트 앱의 동작 원리](frontend/react/리액트%20앱의%20동작%20원리.md)
 - [useEffect 동작 원리](frontend/react/useEffect%20동작%20원리.md)
 
 ### 1.5 TypeScript
 
 ### 1.6 Next.js
-- 
+
+-
 
 ## 2. CS
-- [브라우저 동작 원리](frontend/computer-science/브라우저%20동작%20원리.md)
+
+### 2.1 Browser
+
+- [브라우저 동작 원리](frontend/computer-science/browser/브라우저%20동작%20원리.md)
+
+### 2.2 rendering
+
+- [렌더링 방식](frontend/computer-science/rendering/렌더링%20방식.md)
 
 ## 3. 성능
+
 -
 
 ## 4. 빌드 도구
+
 -
 
 ## 5. 상태관리
+
 -
 
 ## 6. 면접 질문
+
 - [day1](interview/day1.md)
 - [day2](interview/day2.md)
+- [day3](interview/day3.md)
+- [day4](interview/day4.md)
