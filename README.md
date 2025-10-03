@@ -40,7 +40,7 @@
 
 ### 1.6 Next.js
 
--
+- [Next.js를 사용하는 이유](frontend/nextjs/Next.js를%20사용하는%20이유.md)
 
 ## 2. CS
 
