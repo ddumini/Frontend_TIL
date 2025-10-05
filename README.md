@@ -48,6 +48,8 @@
 
 - [브라우저 동작 원리](frontend/computer-science/browser/브라우저%20동작%20원리.md)
 
+- [브라우저 저장소](frontend/computer-science/browser/브라우저%20저장소.md)
+
 ### 2.2 rendering
 
 - [렌더링 방식](frontend/computer-science/rendering/렌더링%20방식.md)
