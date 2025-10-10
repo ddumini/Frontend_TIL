@@ -14,6 +14,7 @@
   - [2. CS](#2-cs)
     - [2.1 Browser](#21-browser)
     - [2.2 rendering](#22-rendering)
+    - [2.3 Authentication](#23-authentication)
   - [3. 성능](#3-성능)
   - [4. 빌드 도구](#4-빌드-도구)
   - [5. 상태관리](#5-상태관리)
@@ -53,6 +54,10 @@
 ### 2.2 rendering
 
 - [렌더링 방식](frontend/computer-science/rendering/렌더링%20방식.md)
+
+### 2.3 Authentication
+
+- [인증 방식 비교](frontend/authentication/인증%20방식%20비교.md)
 
 ## 3. 성능
 
