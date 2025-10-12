@@ -43,6 +43,7 @@
 
 - [Next.js를 사용하는 이유](frontend/nextjs/Next.js를%20사용하는%20이유.md)
 - [서버 컴포넌트](frontend/nextjs/서버%20컴포넌트.md)
+- [데이터 캐시](frontend/nextjs/데이터%20캐시.md)
 
 ### 1.7 Authentication
 
