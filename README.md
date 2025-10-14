@@ -19,7 +19,9 @@
   - [3. 성능](#3-성능)
   - [4. 빌드 도구](#4-빌드-도구)
   - [5. 상태관리](#5-상태관리)
-  - [6. 프로젝트 회고](#6-프로젝트-회고)
+  - [6. 라이브러리](#6-라이브러리)
+  - [6.1 form](#61-form)
+  - [6.2 validation](#62-validation)
 
 ## 1. FrontEnd
 
@@ -79,6 +81,12 @@
 
 -
 
-## 6. 프로젝트 회고
+## 6. 라이브러리
 
-- [프로젝트 회고](project/4단계%20폼%20제출%20로직.md)
+## 6.1 form
+
+- [React Hook Form](libraries/form/React%20Hook%20Form.md)
+
+## 6.2 validation
+
+- [Zod](libraries/validation/Zod.md)
