@@ -84,5 +84,6 @@
 
 ## 6.1 step-form
 
-- [step-RHF](projects/step-form/step-RHF.md)
-- [step-Zod](projects/step-form/step-Zod.md)
+- [steps-RHF](projects/step-form/steps-RHF.md)
+- [steps-Zod](projects/step-form/steps-Zod.md)
+- [steps-ContextAPI](projects/step-form/steps-ContextAPI.md)
