@@ -88,3 +88,4 @@
 - [steps-Zod](projects/step-form/steps-Zod.md)
 - [steps-ContextAPI](projects/step-form/steps-ContextAPI.md)
 - [FSD](projects/step-form/FSD.md)
+- [optimize-performance](projects/optimize-performance/optimize-performance.md)
