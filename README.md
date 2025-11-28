@@ -47,6 +47,7 @@
 - [서버 컴포넌트](frontend/nextjs/서버%20컴포넌트.md)
 - [데이터 캐시](frontend/nextjs/데이터%20캐시.md)
 - [풀 라우트 캐시](frontend/nextjs/풀%20라우트%20캐시.md)
+- [페이지 라우터](frontend/nextjs/페이지%20라우터.md)
 
 ### 1.7 Authentication
 
